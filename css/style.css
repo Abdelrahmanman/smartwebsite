@@ -1,0 +1,258 @@
+/* wis style */
+.wis{height: 400px}
+.wisone{background-image: url(../img/29.gif);background-size: cover;background-repeat: no-repeat; background-attachment: fixed}
+.wistwo{background-image: url(../img/somepic/2.gif);background-size: cover;background-repeat: no-repeat; background-attachment: fixed}
+.wisthree{background-image: url(../img/somepic/3.gif);background-size: cover;background-repeat: no-repeat; background-attachment: fixed}
+.wisfour{background-image: url(../img/somepic/5.gif);background-size: cover;background-repeat: no-repeat; background-attachment: fixed}
+.wisfour h3{color: white ; padding-top: 150px}
+.wis h3{color: white ; padding-top: 190px; font-family: tahoma; font-size: 22px; line-height: 2}
+
+
+body{margin-top: 70px}
+.btntop{border: 1px solid #eee;
+        padding: 8px;
+        color: #f76171;
+        cursor: pointer;
+        position: fixed;
+        z-index: 999998888;
+        right: 12px;
+        top: 37px;display: none}
+
+/* Start about */
+#about img{height: 75px}
+#about h3{color: white}
+#about .me{position: relative}
+#about .me img{    height: 75px;
+    position: relative;
+    float: left;
+    padding-right: 23px}
+#about .me h3{font-size: 24px;font-family: "proxima-nova", sans-serif}
+#about .me h3 span{border-bottom: 1px solid #222f39; padding-bottom: 6px}
+#about .me p{    font-size: 17px;
+    margin-top: 21px;
+    font-family: tahoma;
+    color: #4f718e;
+    line-height: 2}
+
+
+
+/* Start about */
+
+
+
+p{    font-size: 17px;
+    margin-top: 21px;
+    font-family: tahoma}
+.fa-arrow-down{border: 1px solid #eee;padding: 8px;color: #f76171;cursor: pointer}
+
+
+
+/* navbar */
+.navbar-default{border-radius: 0;
+    background-color: white;
+    box-shadow: 0px -2px 9px 5px #d4d4d4;
+    border: 0; height: 90px}
+.navbar-brand{margin-left: 110px !important}
+.navbar-brand h4{transform: scale(.6);margin-top: -24px;    font-size: 41px;font-family: verdana;color: #696d9a;
+                 transform: scale(.6);margin-top: -24px;font-size: 85px;font-family: verdana;color: #696d9a}
+.navbar-brand h4 span{color: #999;font-size: 20px;position: absolute;display: block}
+.navbar-brand h4 .span1{top: 40px;left: 64px}
+.navbar-brand h4 .span2{left: 64px;top: 58px}
+.navbar-right{margin-top: 21px;margin-right: 100px}
+.navbar-right li a{color: #04303b !important;font-size: 15px}
+.navbar-right .active a{background-color: transparent !important;color: #04303b!important;font-size: 17px;font-weight: bold;}
+.aboutbtn{margin-left: 63%}
+/* End nav */
+/* header style */
+header{     width: 100%; height: 452px;
+            background-image: url(../img/header.gif);
+            background-size: cover;
+            background-repeat: no-repeat;
+            padding: 65px 0 65px 0
+      }
+header h3{
+    text-align: center;
+    font-family: tahoma;
+    font-size: 23px;
+    color: white;
+    line-height: 2;
+    margin: 0 auto;
+    margin-top: 135px}
+
+/* End header style */
+
+/* vision style */
+.vision{margin-top: 40px}
+.vision h3{color: #04303B;
+    font-size: 115px;
+    font-family: "proxima-nova", sans-serif}
+.vision h3 span{border-bottom: 1px solid #eee; padding-bottom: 6px}
+.vision p{color: #999;line-height: 2; background-image: url(../img/vision.gif);background-repeat: no-repeat;background-position: center}
+/* End vision style */
+
+
+/* seperator style */
+.seperator{padding: 30px}
+.seperator i{font-size: 60px;    border: 2px solid #999; border-radius: 50%;padding: 10px}
+.seperator i:hover , .seperator:hover i{padding: 20px}
+.seperator .fa-paint-brush{color: aqua}
+.seperator .fa-tasks{color: #ff7758}
+.fa-desktop{color: aqua}
+.fa-crop{color: #ff4500}
+.fa-street-view{color: #00c5ff}
+.fa-glass{color: #ceff4d}
+/* End seperator style */
+
+/* Hire */
+.hire{width: 100%; height: 684px;background-image: url(../img/hireme.gif); background-attachment: fixed;
+      background-repeat: no-repeat; background-size: cover; background-position: center
+     }
+mark{    background: #2b3236;
+    color: #fff;
+    padding: 13px}
+.hire h3{margin-top: 235px;font-family: verdana;font-size: 115px;color: white}
+.hire h3 span{border-bottom: 1px solid #eee; padding-bottom: 6px}
+.hire p{color: white;line-height: 2}
+.hire .btn-success{ width: 176px;
+                    border-radius: 52px;
+                    border: 0;
+                    background-color: #ffff34;
+                    color: #444;
+                    height: 41px;color: #04303B;
+                    font-size: 1.3em;
+                    font-family: "proxima-nova", sans-serif;margin-top: 24px}
+.hire .btn-success:hover{background-color: #fff}
+/* End Hire */
+
+
+
+
+
+/* portfolio style */
+.portfolio{background-color: #171d22; padding: 60px}
+.portfolio h3{color: white;font-size: 36px;font-family: verdana}
+.portfolio h3 span{border-bottom: 1px solid #eee; padding-bottom: 6px}
+.portfolio p{ color: #8b8b8b;
+              margin-left: 66px;
+              padding: 35px;
+              line-height: 2;
+              text-align: center
+            }
+
+.port{width: 257px;height: 145px;position: relative; background-color: white;box-shadow: 0px 0 22px 6px #272727}
+.port:hover{height: 205px}
+.port:hover img{box-shadow: 0 -10px 30px 6px #0c3248}
+.port .imgex{font-size: 17px;font-family: tahoma;color: #171d22;    position: absolute;margin-top: 10px;margin-left: 11px}
+/* End portfolio style */
+.portfolio , .port , .port img , .port .imgex , i , .seperator , .hire .btn-success{transition: all .5s ease-in-out;-webkit-transition: all .5s ease-in-out;
+                                              -moz-transition: all .5s ease-in-out; -o-transition: all .5s ease-in-out;
+                                              -ms-transition: all .5s ease-in-out
+                                             }
+
+/* Skills */
+.skills h3{color: #04303B;font-size: 65px;font-family: "proxima-nova", sans-serif;margin-bottom: 54px}
+.skills h3 span{border-bottom: 1px solid #eee; padding-bottom: 6px}
+.progress{background-color: white;
+    border: 0;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 22px -6px #080808}
+.progress-bar{background-color: #171d22}
+
+/* End Skills */
+
+/* footer */
+footer{background-color: #171d22;color: white}
+/* End footer */
+
+
+
+
+/* contact style */
+.modal-content{background-color: #171d22; padding: 57px 0 66px 0}
+.modal-content h3{color: white;font-family: "proxima-nova", sans-serif;margin-bottom: 30px; font-size: 20px }
+.modal-content form{width: 40%;margin: 0 auto}
+.modal-content form input{  display: block;width: 360px;background-color: #171d22;border: 0;margin-bottom: 20px;
+                            box-shadow: 0px 0px 22px 1px #080808;
+                            padding: 8px 23px}
+.modal-content form .message{height: 150px}
+.modal-content form .submit{color: white;font-size: 15px}
+/* End contact style */
+
+.xspan, .xspann{position: fixed;
+    right: 0;
+    color: white;
+    z-index: 9999999;
+    padding: 29px;
+    font-size: 27px; cursor: pointer}
+
+
+
+
+
+
+@media (max-width: 625px)
+{
+    .hire h3 , .vision h3 {font-size: 25px}
+
+
+}
+@media (max-width: 934px) and (min-width: 768px )
+{
+    .navbar-right{margin-top: -5px}
+
+}
+
+@media (max-width: 767px ) {
+    .navbar-right{    background-color: #171d22;
+    width: 73%;
+    margin: 0 auto;
+    margin-top: 41px}
+    .navbar-right .active a {
+    background-color: transparent !important;
+    color: #ffffff!important;
+    font-size: 17px;
+    font-weight: bold}
+    .navbar-right li a {
+    color: #04303b !important;
+    font-size: 15px;
+    border-bottom: 1px solid #182836}
+    header p{color: white;    font-size: 25px;margin-top: 104px}
+}
+@media(max-width:346px)
+{
+  header p{margin-top: 50px}
+}
+
+@media(max-width:350px)
+{
+  .port{width: 180px}
+
+}
+@media(max-width:551px)
+{
+  .modal-content form input{width: 173px; margin-left: -20px}
+}
+@media (max-width:964px) {
+  .portfolio p {
+  color: #8b8b8b;
+  margin-left: 0px;
+  padding: 0;
+  line-height: 2;
+  text-align: left}
+}
+@media(max-width:470px)
+{
+  .navbar-toggle{
+    margin-left: 15px
+  }
+  .navbar-brand {margin-left: 0 !important}
+  .btntop {
+    border: 1px solid #eee;
+    padding: 8px;
+    color: #f76171;
+    cursor: pointer;
+    position: fixed;
+    z-index: 999998888;
+    right: 5px;
+    top: 50px}
+}
