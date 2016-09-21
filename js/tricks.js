@@ -46,4 +46,10 @@ $(function () {
         }
 			})
 
+
+    $(window).load(function(){
+		    $(".spinner").fadeOut(3000);
+
+		    })
+
     })
