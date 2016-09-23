@@ -52,4 +52,9 @@ $(function () {
 
 		    })
 
+        $('.btn-show').click(function(){
+            $('.show-more').fadeToggle(2000);
+            $(this).hide();
+        })
+
     })
