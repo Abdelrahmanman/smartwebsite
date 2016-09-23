@@ -47,10 +47,9 @@ $(function () {
 			})
 
 
-    $(window).load(function(){
+
 		    $(".spinner").fadeOut(3000);
 
-		    })
 
         $('.btn-show').click(function(){
             $('.show-more').fadeToggle(2000);
