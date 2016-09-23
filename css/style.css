@@ -1,4 +1,5 @@
 /* spinner */
+.spinner h2{position: fixed; color: #999; font-family: verdana; bottom:20px; font-size: 14px; left: 20px}
 .spinner{
   position: fixed;
 background: white;
