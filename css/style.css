@@ -73,14 +73,14 @@ margin-top: -70px
 
 
 body{margin-top: 70px}
-.btntop{border: 1px solid #eee;
-        padding: 8px;
-        color: #f76171;
-        cursor: pointer;
-        position: fixed;
-        z-index: 999998888;
-        right: 12px;
-        top: 37px;display: none}
+.btntop{padding: 8px;
+    color: #f76171;
+    cursor: pointer;
+    background-color: #2d2c2c;
+    position: fixed;
+    z-index: 999998888;
+    right: 25px;
+    bottom: 18px;display: none}
 
 /* Start about */
 #about img{height: 75px}
