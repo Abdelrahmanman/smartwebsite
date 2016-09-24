@@ -397,3 +397,15 @@ footer{background-color: #171d22;color: white}
     right: 5px;
     top: 50px}
 }
+
+
+.btntop {
+    padding: 8px;
+    color: #f76171;
+    cursor: pointer;
+    background-color: #2d2c2c;
+    position: fixed;
+    z-index: 999998888;
+    right: 25px;
+    bottom: 18px;
+    height: 32px}
